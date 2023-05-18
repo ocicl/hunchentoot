@@ -1,0 +1,9 @@
+* hunchentoot
+
+Web server written in Common Lisp.
+
+|---------+---------------------------------------------------------------------------|
+| source  | file:https://github.com/edicl/hunchentoot/archive/refs/tags/v1.3.0.tar.gz |
+| version | 1.3.0                                                                     |
+| systems | hunchentoot                                                               |
+|---------+---------------------------------------------------------------------------|
